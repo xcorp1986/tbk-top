@@ -3,7 +3,7 @@
 namespace Cheukpang\Tbk;
 
 
-class TopClientTB
+class TbkTop
 {
     public $appkey;
 
